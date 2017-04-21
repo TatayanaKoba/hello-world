@@ -1,0 +1,7 @@
+c:\users\tatyana\documents\visual studio 2015\Projects\Tests\Tests\bin\Debug\Tests.dll
+c:\users\tatyana\documents\visual studio 2015\Projects\Tests\Tests\bin\Debug\Tests.pdb
+c:\users\tatyana\documents\visual studio 2015\Projects\Tests\Tests\bin\Debug\nunit.framework.dll
+c:\users\tatyana\documents\visual studio 2015\Projects\Tests\Tests\bin\Debug\nunit.framework.xml
+c:\users\tatyana\documents\visual studio 2015\Projects\Tests\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+c:\users\tatyana\documents\visual studio 2015\Projects\Tests\Tests\obj\Debug\Tests.dll
+c:\users\tatyana\documents\visual studio 2015\Projects\Tests\Tests\obj\Debug\Tests.pdb
